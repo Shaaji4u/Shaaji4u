@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shaaji4u
-- 👀 I’m interested in Computer vision 
-- 🌱 I’m currently learning Python, Advance Excel, face recoy
-- 💞️ I’m looking to collaborate on computer vision program 
-- 📫 How to reach me shaajialfred@gmail.com
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently learning Python, Advance Excel, SQL
+- 💞️ I’m looking to collaborate on data analytics project 
+- 📫 How to reach me dev.shaaji@gmail.com
 
 <!---
 Shaaji4u/Shaaji4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
